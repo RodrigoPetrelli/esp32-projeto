@@ -96,4 +96,4 @@ esp32-projeto/
 
 **Rodrigo Petrelli**  
 Estudante de Ciência da Computação — PUCPR  
-[LinkedIn](https://www.linkedin.com/in/rodrigopetrelli-201523334) • [GitHub](https://github.com/RodrigoPetrelli)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-petrelli-201523334/) • [GitHub](https://github.com/RodrigoPetrelli)
